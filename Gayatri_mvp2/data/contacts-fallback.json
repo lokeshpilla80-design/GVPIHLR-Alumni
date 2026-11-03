@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "1779117645009",
+    "name": "lokesh pilla",
+    "email": "lokeshpilla80@gmail.com",
+    "phone": "7675030956",
+    "subject": "general",
+    "message": "good evening sir\n",
+    "type": "general",
+    "isRead": false,
+    "isActive": true,
+    "createdAt": "2026-05-18T15:20:45.009Z",
+    "updatedAt": "2026-05-18T15:20:45.009Z"
+  },
+  {
+    "_id": "1778773620545",
+    "name": "Test User",
+    "email": "test.user@example.com",
+    "phone": "+919876543210",
+    "subject": "general",
+    "message": "This is a test contact from automated check.",
+    "type": "general",
+    "isRead": false,
+    "isActive": true,
+    "createdAt": "2026-05-14T15:47:00.545Z",
+    "updatedAt": "2026-05-14T15:47:00.545Z"
+  }
+]
